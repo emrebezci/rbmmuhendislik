@@ -4039,8 +4039,7 @@ textarea.form-control-lg {
 .navbar > .container-xl,
 .navbar > .container-xxl {
   display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
+  flex-wrap: inherit;
   align-items: center;
   justify-content: space-between;
 }
