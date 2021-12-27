@@ -11723,6 +11723,8 @@ section#contact {
   .navlogomobil {
     width: 100% !important;
     height: 60px !important;
+    justify-content: center;
+    text-align: center;
   }
 }
 
