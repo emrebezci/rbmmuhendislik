@@ -4039,9 +4039,10 @@ textarea.form-control-lg {
 .navbar > .container-xl,
 .navbar > .container-xxl {
   display: flex;
-  flex-wrap: inherit;
+  flex-direction: row;
+  flex-wrap: nowrap;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 .navbar-brand {
   padding-top: 0.3125rem;
