@@ -11759,3 +11759,12 @@ section#contact {
 
 
 
+@media (min-width: 1440px) {
+  .navlogomobil {
+    width: 100% !important;
+    height: 120px !important;
+  }
+}
+
+
+
