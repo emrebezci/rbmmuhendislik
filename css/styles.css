@@ -11330,6 +11330,7 @@ p {
   padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: lightgrey;
+  
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -11393,17 +11394,7 @@ p {
     margin-right: 0;
   }
 }
-/* header.masthead {
-  padding-top: 10.5rem;
-  padding-bottom: 6rem;
-  text-align: center;
-  color: #fff;
-  background-image: url("../assets/img/slide/slide1.jpg");
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
-  background-size: cover;
-} */
+
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
   font-style: italic;
@@ -11723,8 +11714,7 @@ section#contact {
   .navlogomobil {
     width: 100% !important;
     height: 60px !important;
-    justify-content: center;
-    text-align: center;
+    display: none;
   }
 }
 
@@ -11733,6 +11723,7 @@ section#contact {
   .navlogomobil {
     width: 100% !important;
     height: 70px !important;
+    
   }
 }
 
