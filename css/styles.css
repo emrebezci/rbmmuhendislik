@@ -6170,12 +6170,13 @@ textarea.form-control-lg {
 .carousel-caption {
   position: absolute;
   right: 15%;
-  bottom: 1.25rem;
+  bottom: 11.25rem;
   left: 15%;
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
   color: #fff;
   text-align: center;
+  justify-content: center;
 }
 
 .carousel-dark .carousel-control-prev-icon,
@@ -11788,7 +11789,7 @@ section#contact {
   }
 }
 
-@media (min-width:991px) {
+@media (min-width:1024px) {
   .karusel {
     height: 100vh !important;
   }
