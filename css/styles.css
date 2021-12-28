@@ -11767,4 +11767,11 @@ section#contact {
 }
 
 
-
+.karusel {
+  height: 100vh !important;
+}
+@media (max-width:992px) {
+  .karusel {
+    height: 80vh !important;
+  }
+}
