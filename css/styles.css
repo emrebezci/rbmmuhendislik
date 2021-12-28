@@ -11711,11 +11711,11 @@ section#contact {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-@media (max-width: 424px) {
+@media (max-width: 400px) {
   .navlogomobil {
     width: 100% !important;
     height: 60px !important;
-    
+    display: none !important;
   }
 }
 
@@ -11724,7 +11724,6 @@ section#contact {
   .navlogomobil {
     width: 100% !important;
     height: 70px !important;
-    
   }
 }
 
